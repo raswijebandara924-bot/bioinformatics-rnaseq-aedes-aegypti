@@ -13,7 +13,6 @@ This project investigates differential gene expression associated with temephos 
 - R / RStudio
 - VectorBase
 - Microsoft Excel
-- Illumina NovaSeq 6000
 
 ## Key Results
 Top overexpressed genes:
